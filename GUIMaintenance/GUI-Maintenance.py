@@ -23,7 +23,7 @@ Tab.add(T1,text='ใบแจ้งซ่อม')
 Tab.add(T2,text='ดูใบแจ้งซ่อม')
 Tab.pack(fill=BOTH,expand=1)
 
-#token = 'C9AgUJb18pFtxKrDrnSYY1PBJ1522V0aNivWajqN9iw'
+#token = ''
 #messenger = Sendline(token)
 
 #############Tab1##########################
